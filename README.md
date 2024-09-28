@@ -1,7 +1,7 @@
 # Subject
 
 
-![image](https://github.com/revolveR99/Math-Computor-v1/blob/main/Subject.png)
+![image](https://github.com/revolveR99/Math-Computor-v1/blob/main/subject.png)
 
 # Computorv1
 Polynomial equation solver, coded in Python.
