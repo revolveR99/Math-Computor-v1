@@ -24,4 +24,5 @@ Polynomial equation solver, coded in Python.
 
 ### Useful links that helped me with this project:
 - [**Regex in Python explained with examples**](https://www.w3schools.com/python/python_regex.asp)
-- [**Discriminant and 2nd degree equations solving (in French)**](https://www.mathematiquesfaciles.com/solutions-complexes-d-une-equation-de-degre-2_2_45257.htm)
+- [**Discriminant and 2nd degree equations solving **](https://www.geeksforgeeks.org/solving-2nd-degree-quadratic-equations/)
+  
