@@ -6,6 +6,7 @@ to show at least:
 - The degree of the equation.
 - It’s solution(s) and the polarity of the discriminant if it makes sens.
 Ex examples:
+![image](https://github.com/revolveR99/Math-Computor-v1/blob/main/Subject.png)
 
 We will always expect the entry to have the right format, ie. every term respect the
 form a ∗ x
@@ -20,7 +21,7 @@ for instance, each real number is a solution...
 # Computorv1
 Polynomial equation solver, coded in Python.
 
-![image](https://github.com/revolveR99/Math-Computor-v1/blob/main/Subject.png)
+![image](https://github.com/revolveR99/Math-Computor-v1/blob/main/153571769-3f15bf46-30c1-44f3-8824-3b32385a99d2.png)
 
 ### The project:
 
